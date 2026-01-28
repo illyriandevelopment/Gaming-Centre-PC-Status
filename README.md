@@ -27,6 +27,5 @@ Contact for Customization: Need specific features or a different color scheme? C
 
 📬 Contact Us
 Contact us at Illyrian Development: https://illyriandev.netlify.app/
-We are Illyrian Development, based in Korçë, Albania. For business inquiries, custom builds, or technical support, reach out via our official website:
+We are Illyrian Development, based in Korçë, Albania. For business inquiries, custom builds, or technical support, reach out via our official website: https://illyriandev.netlify.app/
 
-Contact us at Illyrian Development
