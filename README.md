@@ -1,5 +1,3 @@
-Here is a professional and high-energy README.md tailored for your GitHub repository. Since you want to sell the code, this README is designed to act as a "Sales Landing Page" that protects your intellectual property while showing off the features.
-
 🖥️ ULTRA-NET: Modern Gaming Center Dashboard
 A high-performance, real-time management platform for esports lounges and gaming centers.
 
