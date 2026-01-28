@@ -16,7 +16,7 @@ Email Reservation Hub: Integrated with Web3Forms so customers can book PCs direc
 Fully Responsive: Works on tablets, phones, and PCs.
 
 🌐 Live Preview
-Check out the live dashboard in action here: View Live Demo
+Check out the live dashboard in action here: https://gamingcentretest1.netlify.app/
 
 💰 Get the Full Source Code
 This project is currently for sale. You will receive the complete, documented source code (HTML, CSS, JS) and a setup guide to launch it on your own server.
