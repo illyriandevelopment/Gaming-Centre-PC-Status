@@ -1,3 +1,9 @@
+<img width="1917" height="897" alt="Screenshot 2026-01-28 114707" src="https://github.com/user-attachments/assets/18830d15-f395-4e03-87e6-3a606a31456b" />
+<img width="1918" height="903" alt="Screenshot 2026-01-28 114545" src="https://github.com/user-attachments/assets/f2da2e8f-a4fa-46cc-8b67-b41938dfd153" />
+<img width="1918" height="887" alt="Screenshot 2026-01-28 114732" src="https://github.com/user-attachments/assets/ae644cf5-ff73-4ea7-b9bc-f6d60d94a252" />
+
+
+
 🖥️ ULTRA-NET: Modern Gaming Center Dashboard
 A high-performance, real-time management platform for esports lounges and gaming centers.
 
